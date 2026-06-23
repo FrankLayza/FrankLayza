@@ -1,6 +1,3 @@
-# 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I'm currently working on building fullstack apps like a NFT Analyzer, and some a Telegram Mini Apps with TON.  <br>- 🤝 I'm looking to collaborate on open source projects that use React, Next.js, or NestJS.  <br>- 🛠️ I'm looking to help with frontend issues, UI/UX improvements, or integrating APIs into real-world apps.  <br>- 🌱 I'm currently learning NestJS, backend patterns, and exploring browser automation with extensions.  <br>- 💬 Ask me about React, TailwindCSS, fullstack project ideas, or building Telegram bots.  <br>- ⚡ Fun fact: I love turning side projects into learning labs — if it challenges me, I’ll probably build it.  <br>
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FrankLayza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankez478@gmail.com) 
